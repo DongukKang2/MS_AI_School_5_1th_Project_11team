@@ -36,10 +36,15 @@
 ## 📁 프로젝트 구조
 Copyproject-root/
 │
+
 ├── frontend/
+
 ├── backend/
+
 ├── model/
+
 └── docs/
+
 
 ## 👥 역할 분담
 - 강동욱 : 
@@ -72,4 +77,6 @@ Copyproject-root/
 
 
 작성 날짜: 2024.10.31(목)
+
+
 마지막 업데이트: 2024.10.31(목)
