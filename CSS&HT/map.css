@@ -1,0 +1,22 @@
+/* 인포윈도우 스타일 */
+.infowindow {
+    padding: 15px;
+    min-width: 200px;
+  }
+  
+  .infowindow-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .infowindow-address {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #666;
+  }
+  
+  .infowindow-category {
+    font-size: 13px;
+    color: #f76707;
+  }
