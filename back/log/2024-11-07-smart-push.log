@@ -1,0 +1,18 @@
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 15:04:25"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 15:42:48"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 19:37:15"}
+{"level":"error","message":"example Query error\n: {\"message\":\"Query was empty\",\"code\":\"ER_EMPTY_QUERY\",\"errno\":1065,\"sqlState\":\"42000\",\"sqlMessage\":\"Query was empty\"}","timestamp":"2024-11-07 19:37:40"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 19:54:10"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 19:55:33"}
+{"level":"error","message":"readStudents Query error\n: {\"message\":\"Table 'NearFoodMap.Students' doesn't exist\",\"code\":\"ER_NO_SUCH_TABLE\",\"errno\":1146,\"sql\":\"SELECT * FROM Students\",\"sqlState\":\"42S02\",\"sqlMessage\":\"Table 'NearFoodMap.Students' doesn't exist\"}","timestamp":"2024-11-07 20:04:16"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 20:21:31"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 20:21:46"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 20:21:53"}
+{"level":"error","message":"NearFoodMap Query error\n: {\"message\":\"Table 'NearFoodMap.NearFoodMap' doesn't exist\",\"code\":\"ER_NO_SUCH_TABLE\",\"errno\":1146,\"sql\":\"SELECT * FROM NearFoodMap\",\"sqlState\":\"42S02\",\"sqlMessage\":\"Table 'NearFoodMap.NearFoodMap' doesn't exist\"}","timestamp":"2024-11-07 20:21:55"}
+{"level":"error","message":"NearFoodMap Query error\n: {\"message\":\"Table 'NearFoodMap.NearFoodMap' doesn't exist\",\"code\":\"ER_NO_SUCH_TABLE\",\"errno\":1146,\"sql\":\"SELECT * FROM NearFoodMap\",\"sqlState\":\"42S02\",\"sqlMessage\":\"Table 'NearFoodMap.NearFoodMap' doesn't exist\"}","timestamp":"2024-11-07 20:39:41"}
+{"level":"error","message":"NearFoodMap Query error\n: {\"message\":\"Table 'NearFoodMap.NearFoodMap' doesn't exist\",\"code\":\"ER_NO_SUCH_TABLE\",\"errno\":1146,\"sql\":\"SELECT * FROM NearFoodMap\",\"sqlState\":\"42S02\",\"sqlMessage\":\"Table 'NearFoodMap.NearFoodMap' doesn't exist\"}","timestamp":"2024-11-07 20:45:20"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 23:16:16"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 23:20:39"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 23:20:46"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 23:34:34"}
+{"level":"info","message":"undefined - API Server Start At Port 3000","timestamp":"2024-11-07 23:40:47"}
