@@ -19,7 +19,7 @@ async function getDataSet(category) {
   try {
     const dataSet = await axios({
       method: "get",
-      url: `http://3.39.174.171:3000/NearFoodMap?category=${qs}`,
+      url: `http://3.39.174.171:3000/NearFoodMap_Jongrogu?category=${qs}`,
       headers: {},
       data: {},
     });
