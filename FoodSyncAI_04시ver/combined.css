@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'S-CoreDream-3Light';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'S-CoreDream-3Light';
+}
+
+/* 공통 네비게이션 스타일 */
+.nav-container {
+    padding: 0.5rem; /* map.css에 있던 속성 */
+    margin: 0; /* style.css에 있던 속성 */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-title {
+    font-size: 2.5rem;
+}
+
+.nav-contact {
+    font-size: 2.5rem; /* map.css에 있던 속성 */
+    border: 0;
+    background-color: none; /* map.css */
+    background: orange; /* style.css */
+    cursor: pointer;
+    font-family: inherit;
+}
+
+/* 카테고리 스타일 */
+.category-title {
+    font-size: 3rem;
+}
+
+.category-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.category-item {
+    width: 25%;
+    height: 5rem;
+    background: none;
+    border: none;
+    font-family: inherit;
+    font-size: 1.6rem;
+}
+
+.category-item:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+/* 인포윈도우 스타일 */
+.infowindow {
+    padding: 1rem;
+    font-size: 1.4rem;
+}
+
+.infowindow-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.infowindow-address {
+    color: #666;
+    margin-bottom: 1rem;
+}
+
+.infowindow-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+/* 공통 inner 스타일 */
+.inner {
+    padding: 0 2.5rem; /* map.css */
+}
+
+@media all and (min-width: 1024px) {
+    .inner {
+        max-width: 1024px;
+        margin: 0 auto;
+    }
+}
+
+/* 카카오맵 스타일 */
+body {
+    height: 100vh;
+}
+
+nav {
+    height: 59px;
+    background-color: orange; /* style.css */
+}
+
+main {
+    padding-top: 1.5rem;
+    height: calc(100% - 59px);
+    display: flex;
+    flex-direction: column;
+}
+
+#map {
+    flex: 1;
+    width: 100%;
+    height: 100%;
+}
