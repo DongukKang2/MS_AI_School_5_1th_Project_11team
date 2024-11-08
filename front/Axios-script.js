@@ -1,7 +1,7 @@
 /* 지도 생성 & 기본 설정 유지 */
 var container = document.getElementById("map");
 var options = {
-  center: new kakao.maps.LatLng(37.54, 126.96),
+  center: new kakao.maps.LatLng(37.57, 126.98),
   level: 8,
 };
 
