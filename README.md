@@ -9,7 +9,6 @@
 
 ## 🎥 프로젝트 시연 영상
 - Gradio를 활용한 서비스 데모 영상입니다.
-- 시연을 희망하시는 분은 이메일로 연락주시면 배포해드리겠습니다.
 ![최종_시연영상](https://github.com/user-attachments/assets/3dfee855-bf00-4843-a2a2-9343c90bcde4)
 
 ## 💡 프로젝트 소개
